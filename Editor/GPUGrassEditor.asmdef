@@ -1,0 +1,18 @@
+{
+    "name": "zCubed.Flora.Editor",
+    "rootNamespace": "zCubed.Flora",
+    "references": [
+        "GUID:9030d7e40fb95d740adb6a603fb60df0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
